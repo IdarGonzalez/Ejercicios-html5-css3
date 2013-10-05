@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: black;
+	background-color: #101010;
 	font-family: sans-serif;
 }
 
@@ -23,36 +23,32 @@ p {
 	max-width: 80%;
 	float: left;
 	padding: 10px 0px 10px 15px;
-	position: 
-}
-
-.porcentaje {
-	padding: 10px 0px;
 	position: relative;
-	right: -10px;
-	float: right;
-
 }
 
 #contenedor {
 	width: 400px;
-	border: 1px solid white;
 	margin: 20px auto
 }
 
 .numero {
+	position: absolute;
+	margin-top: 15px;
 	color:white;
 	background-color: black;
-	padding: 5px;
-	border-radius: 5px
+	border-radius: 5px;
+	padding: 5px 5px;
+	right: -15px
 }
 
 .Cajacolor {
 	background-color: rgba(177,39,72,.9);
 	width: 90%;
 	min-height: 70px;
+	max-height: 140px;
 	border-radius: 10px;
 	margin: -10px 0;
+	position: relative;
 }
 
 .segundo {
@@ -90,4 +86,13 @@ p {
 	width: 40%;
 }
 
+.Noveno{
+	background-color: rgba(31,158,157,.9);
+	width: 40%;
+}
+
+.Decimo{
+	background-color: rgba(31,133,158,.9);
+	width: 35%;
+}
 
