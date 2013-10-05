@@ -1,0 +1,93 @@
+* { 
+	margin: 0; padding: 0; 
+}
+
+body {
+	background-color: black;
+	font-family: sans-serif;
+}
+
+h1 {
+	color:white;
+	margin: 20px 0;
+	font-weight: bold
+}
+
+p {
+	font-size: 15px;
+	font-weight: bold;
+
+}
+
+.contenido {
+	max-width: 80%;
+	float: left;
+	padding: 10px 0px 10px 15px;
+	position: 
+}
+
+.porcentaje {
+	padding: 10px 0px;
+	position: relative;
+	right: -10px;
+	float: right;
+
+}
+
+#contenedor {
+	width: 400px;
+	border: 1px solid white;
+	margin: 20px auto
+}
+
+.numero {
+	color:white;
+	background-color: black;
+	padding: 5px;
+	border-radius: 5px
+}
+
+.Cajacolor {
+	background-color: rgba(177,39,72,.9);
+	width: 90%;
+	min-height: 70px;
+	border-radius: 10px;
+	margin: -10px 0;
+}
+
+.segundo {
+	background-color: rgba(177,39,39,.9);
+	width: 85%;
+}
+
+.Tercero {
+	background-color: rgba(177,114,39,.9);
+	width: 80%;
+}
+
+.Cuarto{
+	background-color: rgba(169,177,39,.9);
+	width: 60%;
+}
+
+.Quinto{
+	background-color: rgba(130,177,39,.9);
+	width: 55%;
+}
+
+.Sexto{
+	background-color: rgba(72,177,39,.9);
+	width: 50%;
+}
+
+.Septimo{
+	background-color: rgba(34,176,101,.9);
+	width: 45%;
+}
+
+.Octavo{
+	background-color: rgba(31,158,130,.9);
+	width: 40%;
+}
+
+
